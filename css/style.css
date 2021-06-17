@@ -1,0 +1,120 @@
+body {
+  margin: 20px;
+}
+
+h1 , h2 {
+  text-align: center;
+}
+
+
+.middle {
+  text-align: center;
+}
+.homework {
+color: white;
+background-color: darkcyan;
+}
+
+
+aside {
+float: right;
+width: 40%;
+background-color: lightgrey ;
+margin-left:20px ;
+padding-left: 20px ;
+
+}
+
+.coffee {
+  width: 200px;
+  box-shadow: 5px 5px 15px grey;
+
+}
+.wrapper {
+
+  overflow: hidden;
+}
+
+.dl {
+
+  float: left;
+}
+
+
+.form {
+  float: right;
+  width: 25%;
+  margin-right: 120px;
+  margin-top: 50px;
+  padding: 5px 15px 15px;
+  border-radius: 8px;
+  background-color: lightsteelblue;
+  box-shadow: 5px 5px 15px grey;
+}
+
+figure {
+  margin-left: 110px;
+  float: left;
+
+}
+
+figcaption {
+  background-color: gray;
+  text-align: center;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+ td {
+  border: 1px solid black;
+  background-color: lightblue;
+  text-align: center;
+  padding: 10px;
+}
+
+ th {
+  border: 1px solid black;
+  background-color: darkcyan;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.table {
+  margin-left: 300px;
+  float: left;
+
+}
+
+.video{
+  margin-right: 300px;
+  float: right;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 15px;
+  background-color: lightblue;
+
+}
+
